@@ -1,0 +1,7 @@
+{
+  "name": "Scene Shadow: Incredibles 2",
+  "description": "Educational movie-clip shadowing app for practicing English speaking rhythm, stress, and intonation with Incredibles 2.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
